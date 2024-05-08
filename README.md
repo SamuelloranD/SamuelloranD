@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Samuel Lorand 🤙
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelloranD&show_icons=true&theme=dark)
+#### Work in Progress 🚧
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelloranD&size_weight=0.5&count_weight=0.5)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelloranD&show_icons=true&theme=dark)
 
 ## Tecnologias que uso atualmente
 
