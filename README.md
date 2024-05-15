@@ -2,8 +2,7 @@
 
 #### Work in Progress 🚧
 
-<img alt="meu status" heigh="160px" width="45%" src="https://github-readme-stats.vercel.app/api?username=SamuelloranD&show_icons=true&theme=dark"/>
-<img heigh="160px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelloranD&show_icons=true&theme=dark&layout=compact" />
+<img alt="meu status" heigh="160px" width="45%" src="https://github-readme-stats.vercel.app/api?username=SamuelloranD&show_icons=true&theme=dark"/><img heigh="160px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelloranD&show_icons=true&theme=dark&layout=compact" />
 
 ## Tecnologias que uso atualmente
 
