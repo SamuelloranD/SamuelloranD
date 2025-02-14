@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Samuel Lorand 🤙
 
+> Sou um estudante de Sistemas de Informação buscando construir minha carreira na área da tecnologia. Tenho paixão por desenvolvimento e estou sempre explorando novas tecnologias para aprimorar minhas habilidades. Abaixo, você pode conferir algumas das tecnologias que estudo e projetos nos quais tenho trabalhado.
+> 
+ 
 <div> 
   <a href="https://www.instagram.com/samuel.lorand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-lorand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
