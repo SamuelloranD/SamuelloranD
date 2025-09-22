@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Lorand 🤙
 
-> Sou um estudante de Sistemas de Informação buscando construir minha carreira na área da tecnologia. Tenho paixão por desenvolvimento e estou sempre explorando novas tecnologias para aprimorar minhas habilidades. Abaixo, você pode conferir algumas das tecnologias que estudo e projetos nos quais tenho trabalhado.
+> Desenvolvedor de Software em formação, criando projetos com Java, Spring Boot e tecnologias web. Sempre buscando aprender e aplicar novas ferramentas em soluções reais.
 > 
  
 <div> 
