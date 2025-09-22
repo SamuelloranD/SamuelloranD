@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Lorand 🤙
 
-> Desenvolvedor de Software em formação, criando projetos com Java, Spring Boot e tecnologias web. Sempre buscando aprender e aplicar novas ferramentas em soluções reais.
+> Desenvolvedor de Software, atualmente criando projetos com Java, Spring Boot e tecnologias web. Sempre buscando aprender e aplicar novas ferramentas em soluções reais.
 > 
  
 <div> 
