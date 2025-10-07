@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Samuel Lorand 🤙
 
-> Desenvolvedor de Software, atualmente criando projetos com Java, Spring Boot e tecnologias web. Sempre buscando aprender e aplicar novas ferramentas em soluções reais.
+> Desenvolvedor Full Stack com foco em criar aplicações modernas e bem estruturadas. Sempre explorando novas tecnologias e boas práticas para entregar soluções de qualidade e alto desempenho.
 > 
  
 <div> 
