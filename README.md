@@ -1,25 +1,127 @@
-## Olá! Eu sou o Samuel Lorand 🤙
+# Samuel Lorand — Full Stack Developer
 
-> Desenvolvedor Full Stack com foco em criar aplicações modernas e bem estruturadas. Sempre explorando novas tecnologias e boas práticas para entregar soluções de qualidade e alto desempenho.
-> 
- 
-<div> 
-  <a href="https://www.instagram.com/samuel.lorand/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/samuellorand/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:samuel.lorand@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+Desenvolvedor **Full Stack** com experiência no desenvolvimento e manutenção de aplicações web corporativas, atuando tanto no **backend com Java e Spring Boot** quanto no **frontend com React, Next.js e TypeScript**.
+
+Atualmente trabalho na **Innovatis**, desenvolvendo funcionalidades ponta a ponta, integrações com **APIs REST**, persistência de dados com **PostgreSQL/JPA**, além de atuar com **AWS, Docker, CI/CD e automação de workflows com n8n**.
+
+Tenho experiência prática com **deploy e manutenção de aplicações containerizadas**, pipelines de CI/CD, processamento e integração de dados e automação de tarefas. Também desenvolvo projetos pessoais para aprofundar conhecimentos em arquitetura, boas práticas e desenvolvimento Full Stack.
+
+---
+
+## 📌 Contato & Networking
+
+<p>
+  <a href="https://www.linkedin.com/in/samuellorand/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:samuel.lorand@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/samuel.lorand/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Perfil Profissional
+
+Minha atuação é voltada ao desenvolvimento de aplicações **Full Stack**, participando de diferentes etapas do ciclo de desenvolvimento:
+
+- Desenvolvimento de aplicações web com **Java, Spring Boot, React e Next.js**
+- Construção e integração de **APIs REST**
+- Persistência e modelagem de dados com **PostgreSQL e JPA/Hibernate**
+- Desenvolvimento de interfaces com **React, Next.js e TypeScript**
+- Containerização de aplicações com **Docker**
+- Deploy, manutenção e monitoramento de aplicações na **AWS**
+- Automação de workflows e integrações utilizando **n8n**
+- Construção e manutenção de pipelines **CI/CD**
+- Análise de qualidade de código com **SonarQube**
+- Processamento e integração automatizada de dados
+- Versionamento e colaboração utilizando **Git, GitHub e GitFlow**
+
+Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvolvimento**, principalmente em implementação, refatoração, depuração e documentação, mantendo revisão e validação do código.
+
+---
+
+## 🛠️ Stack Tecnológica
+
+### 💻 Backend
+
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-### Work in Progress 🚧
+**Java • Spring Boot • JPA/Hibernate • APIs REST • Python**
 
-## Tecnologias que possuo experiência
+---
 
-<div>
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img align="center" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>  
-    <img align="center" alt="next" src="https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+### 🎨 Frontend
+
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+</div>
+
+**React • Next.js • TypeScript • JavaScript • Angular • HTML5 • CSS3**
+
+---
+
+### 🗃️ Dados
+
+<div style="display: inline_block">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
+**PostgreSQL • MySQL • SQL**
+
+---
+
+### ☁️ Cloud, DevOps & Automação
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</div>
+
+**AWS • Docker • Jenkins • GitHub Actions • SonarQube • n8n**
+
+---
+
+### 🔧 Ferramentas & Práticas
+
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+**Git • GitHub • GitFlow • Clean Code • SOLID • Design Patterns • Scrum/Kanban**
+
+---
+
+## 📚 Formação
+
+**Bacharelado em Sistemas de Informação — UNIESP**
+
+2024 – 2027 (previsão)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelloranD&layout=compact&theme=dark&hide_border=true" width="49%" />
+
 </div>
