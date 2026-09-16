@@ -11,7 +11,7 @@
 
 ### Work in Progress 🚧
 
-## Tecnologias que estudo atualmente
+## Tecnologias que possuo experiência
 
 <div>
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
