@@ -68,7 +68,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 </div>
 
-**React • Next.js • TypeScript • JavaScript • Angular • HTML5 • CSS3**
+**JavaScript • TypeScript • React • Next.js • Angular • HTML5 • CSS3**
 
 ---
 
