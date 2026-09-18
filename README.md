@@ -2,7 +2,7 @@
 
 Desenvolvedor **Full Stack** com experiência no desenvolvimento e manutenção de aplicações web corporativas, atuando tanto no **backend com Java e Spring Boot** quanto no **frontend com React, Next.js e TypeScript**.
 
-Atualmente trabalho na **Innovatis**, desenvolvendo funcionalidades ponta a ponta, integrações com **APIs REST**, persistência de dados com **PostgreSQL/JPA**, além de atuar com **AWS, Docker, CI/CD e automação de workflows com n8n**.
+Atualmente, trabalho desenvolvendo funcionalidades ponta a ponta, integrações com **APIs REST**, persistência de dados com **PostgreSQL/JPA**, além de atuar com **AWS, Docker, CI/CD e automação de workflows com n8n**.
 
 Tenho experiência prática com **deploy e manutenção de aplicações containerizadas**, pipelines de CI/CD, processamento e integração de dados e automação de tarefas. Também desenvolvo projetos pessoais para aprofundar conhecimentos em arquitetura, boas práticas e desenvolvimento Full Stack.
 
