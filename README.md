@@ -1,6 +1,6 @@
 # Samuel Lorand — Full Stack Developer
 
-Desenvolvedor **Full Stack** com experiência no desenvolvimento e manutenção de aplicações web corporativas, atuando tanto no **backend com Java e Spring Boot** quanto no **frontend com React, Next.js e TypeScript**.
+Desenvolvedor **Full Stack** com experiência no desenvolvimento e manutenção de aplicações web corporativas, atuando tanto no **backend com Java e Spring Boot** quanto no **frontend com React, Next.js, Angular e TypeScript**.
 
 Atualmente, trabalho desenvolvendo funcionalidades ponta a ponta, integrações com **APIs REST**, persistência de dados com **PostgreSQL/JPA**, além de atuar com **AWS, Docker, CI/CD e automação de workflows com n8n**.
 
