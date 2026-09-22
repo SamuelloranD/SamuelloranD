@@ -8,7 +8,7 @@ Tenho experiência prática com **deploy e manutenção de aplicações containe
 
 ---
 
-## 📌 Contato & Networking
+## Contato & Networking
 
 <p>
   <a href="https://www.linkedin.com/in/samuellorand/" target="_blank">
@@ -24,7 +24,7 @@ Tenho experiência prática com **deploy e manutenção de aplicações containe
 
 ---
 
-## 👨‍💻 Perfil Profissional
+## Perfil Profissional
 
 Minha atuação é voltada ao desenvolvimento de aplicações **Full Stack**, participando de diferentes etapas do ciclo de desenvolvimento:
 
@@ -44,9 +44,9 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-## 🛠️ Stack Tecnológica
+## Stack Tecnológica
 
-### 💻 Backend
+### Backend
 
 <div style="display: inline_block">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -58,7 +58,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-### 🎨 Frontend
+### Frontend
 
 <div style="display: inline_block">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -72,7 +72,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-### 🗃️ Dados
+### Dados
 
 <div style="display: inline_block">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -83,7 +83,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-### ☁️ Cloud, DevOps & Automação
+### Cloud, DevOps & Automação
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -98,7 +98,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-### 🔧 Ferramentas & Práticas
+### Ferramentas & Práticas
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -109,7 +109,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-## 📚 Formação
+## Formação
 
 **Bacharelado em Sistemas de Informação — UNIESP**
 
@@ -117,7 +117,7 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
