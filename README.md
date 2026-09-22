@@ -44,42 +44,40 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
 
 ---
 
-## Stack Tecnológica
+### Stack Tecnológica
 
-### Backend
+#### Backend
 
 <div style="display: inline_block">
-  <img height="30" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ---
 
-### Frontend
+#### Frontend
 
 <div style="display: inline_block">
-  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-  <img height="30" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-  <img height="30" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img height="25" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  <img height="25" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white" />
 </div>
 
 ---
 
-### Dados
+#### Dados
 
 <div style="display: inline_block">
-  <img height="30" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+  <img height="25" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
 </div>
-
-**PostgreSQL • MySQL • SQL**
 
 ---
 
-### Cloud, DevOps & Automação
+#### Cloud, DevOps & Automação
 
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -90,8 +88,6 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </div>
 
-**AWS • Docker • Jenkins • GitHub Actions • SonarQube • n8n**
-
 ---
 
 ### Ferramentas & Práticas
@@ -100,8 +96,6 @@ Também utilizo ferramentas de **Inteligência Artificial como apoio ao desenvol
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
-
-**Git • GitHub • GitFlow • Clean Code • SOLID • Design Patterns • Scrum/Kanban**
 
 ---
 
